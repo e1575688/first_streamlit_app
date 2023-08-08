@@ -35,10 +35,7 @@ try:
 
 except URLError as e:
     streamlit.error()
-  
-# Put data in a table 
 
-# with nice headers
 
 
 streamlit.stop()
